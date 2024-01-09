@@ -2,6 +2,16 @@
 
 Checkout my dapps. All built from scratch. You can reach out to me and we can build something together.
 
+# ZK NFT
+
+ZK NFT minting app, prove that you know a secret without revealing it
+
+app: https://zk-7enbqpxz4-onuruci.vercel.app/
+
+repo: https://github.com/onuruci/zk_nft
+
+
+
 # SVG NFT
 
 On chain interactive SVG NFT's
