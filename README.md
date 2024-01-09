@@ -2,6 +2,16 @@
 
 Checkout my dapps. All built from scratch. You can reach out to me and we can build something together.
 
+# SVG NFT
+
+On chain interactive SVG NFT's
+
+app: https://svg-nft.vercel.app/
+
+repo: https://github.com/onuruci/svg_nft
+
+
+
 # Dex
 
 Constant Multiplier AMM application
